@@ -1,0 +1,3 @@
+# Ignorar archivos de modelos grandes
+modelo_rf.pkl
+pipeline.pkl
